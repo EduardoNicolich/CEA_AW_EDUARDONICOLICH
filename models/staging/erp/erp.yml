@@ -1,0 +1,14 @@
+sources:
+  - name: erp
+    database: fea25_05
+    schema: raw_adventure_works
+    tables:
+      - name: production_product
+      - name: production_productsubcategory
+      - name: production_productcategory
+      - name: production_productmodel
+      - name: sales_creditcard
+      - name: sales_salesorderdetail
+      - name: sales_salesorderheader
+      - name: sales_salesterritory     
+      - name: sales_salesreason 
